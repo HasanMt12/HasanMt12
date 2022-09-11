@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Mt :)</h1>
 <h3 align="center">Front-end web developer & UI designer</h3>
 
-![github](https://user-images.githubusercontent.com/108423290/189550760-17d8032b-ec22-4e1d-893a-41ce754bf3fa.jpg)
-
-        ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
+   ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
 
 - 🔭 I’m currently working on **programming**
 
