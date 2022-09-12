@@ -1,4 +1,4 @@
-<h1 align="center">Hi there my friend <img src="assets/hello.gif" width="28px" alt="hi"> </h1>
+## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 <h3 align="center">Front-end web developer & UI designer</h3>
 
    ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
