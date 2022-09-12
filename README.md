@@ -4,15 +4,15 @@
    ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
    
 
-- 🌱 I’m currently learning **React , ruby and rails**
+ 🌱 I’m currently learning **React , ruby and rails**
 
-- 👯 I’m looking to collaborate  **on github**
+ 👯 I’m looking to collaborate  **on github**
 
-- 🤝 I’m looking for  **help with codding**
+ 🤝 I’m looking for  **help with codding**
 
-- 💬 Ask me about **any kind of programming related question**
+ 💬 Ask me about **any kind of programming related question**
 
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
+ ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
 <h3 align="left"> :coffee: &emsp;Connect with me:</h3>
 <p align="left">
