@@ -30,8 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmt12&" alt="hasanmt12" /></p>
 
-<details>
-<summery>name
-</summery>
-abul
-</details>
+
