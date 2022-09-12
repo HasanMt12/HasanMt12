@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> :coffee: &emsp;Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/hasanmt12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanmt12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasan mahmud t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan mahmud t" height="30" width="40" /></a>
