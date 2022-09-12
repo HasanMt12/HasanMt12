@@ -2,6 +2,7 @@
 <h3 align="center">Front-end web developer & UI designer</h3>
 
    ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
+   https://visitor-badge.glitch.me/badge?page_id=hasanmt12)
 
 - 🔭 I’m currently working on **programming**
 
