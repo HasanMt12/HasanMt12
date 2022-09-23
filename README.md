@@ -6,10 +6,6 @@
 
  🌱 I’m currently learning **React , ruby and rails**
 
- 👯 I’m looking to collaborate  **on github**
-
- 🤝 I’m looking for  **help with codding**
-
  💬 Ask me about **any kind of programming related question**
 
  ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
