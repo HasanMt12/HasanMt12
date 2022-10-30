@@ -1,7 +1,6 @@
    <h1 align="center">Hi 👋, I'm Hasan Mt :)</h1>
    <h3 align="center">Front-end web developer & UI designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
    
-   ![github 3](https://user-images.githubusercontent.com/108423290/189551032-9810200b-fa53-4584-b00e-8573290be59a.jpg)
    
 
  🌱 I’m currently learning **React , ruby and rails**
