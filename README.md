@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Hasan Mt :)</h1>
-   <h3 align="center">Front-end web developer & UI designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+   <h3 align="center">Front-end web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
    
    
 
