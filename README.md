@@ -1,7 +1,7 @@
   <h3 align="center">MERN Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hasan+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;I+am+MERN+Stack+Developer+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&color=%2336BCF7&width=600&lines=Hi+there+👋,+I+am+Hasan+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;I+am+MERN+Stack+Developer+;)](https://git.io/typing-svg)
    
    
    
