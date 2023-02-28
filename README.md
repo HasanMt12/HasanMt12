@@ -1,7 +1,6 @@
- 
+  <h3 align="center">MERN Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?align="center"&color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hasan+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;I+am+MERN+Stack+Developer+;)](https://git.io/typing-svg)
    
-   <h3 align="center">Front-end web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
    
    
 
