@@ -4,9 +4,9 @@
 
    
 
- 🌱 I’m currently learning **Redux , NextJs and rust**
+ 🌐 My personal website **[https://hasan-mahmud-dev.vercel.app](https://hasan-mahmud-dev.vercel.app/)**
 
- 💬 Ask me about **any kind of programming related question**
+ 📫 How to reach me **Hasan.2mahmud22@gmail.com**
 
  ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
