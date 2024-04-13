@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://codepen.io/hasanmt12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hasanmt12" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hasan-mahmud-314349244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan mahmud t" height="30" width="40" /></a>
-<a href="https://instagram.com/hasan.mt2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan.mt2014" height="30" width="40" /></a>
 </p>
 
 
