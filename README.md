@@ -1,6 +1,3 @@
-# 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hasan Mahmud -- Full Stack Engineer • MERN • Next.js • TypeScript • Realtime Apps
-
 <!-- PROFILE HERO BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/HasanMt12/HasanMt12/main/github-HasanMahmud.png" alt="Hasan Mahmud Banner" width="100%" />
@@ -12,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 - ⚡ Full Stack Developer focused on **modern scalable web applications**
 - 🧠 Specialized in **Next.js, TypeScript, React & Realtime Systems**
