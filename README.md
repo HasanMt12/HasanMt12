@@ -45,12 +45,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanMt12&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" width="45%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMt12&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMt12&theme=tokyonight" alt="GitHub Streak" width="92%" />
 </p>
 ---
