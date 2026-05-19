@@ -36,9 +36,22 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Tanstack router` `Redux` `Vite` `Sass` |
-| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `Firebase` `Nest.js `Go (Golang)` |
+| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `Firebase` `Nest.js` |
 | **Mobile & Other** | `Kotlin` `Python` `C` `Blender` |
 | **Tools & OS** | `Git` `GitHub` `VS Code` `Postman` `Linux` `jetbrains`|
+
+---
+
+## ⚡ What I Build
+
+✅ Custom Client Solutions  
+✅ Full Stack SaaS Platforms  
+✅ Modern Admin Dashboards  
+✅ Authentication Systems  
+✅ Scalable REST APIs  
+✅ Responsive Frontend Architectures  
+✅ Realtime Chat Applications  
+✅ Payment & Subscription Systems  
 
 ---
 
@@ -56,9 +69,3 @@ const Hasan = {
   currentlyLearning: ["Go", "Kotlin"],
   mindset: "Build fast. Scale smart. Keep learning."
 };
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMt12&theme=tokyonight" alt="GitHub Streak" width="92%" />
-</p>
