@@ -1,6 +1,5 @@
-# Hasan Mahmud [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Hasan+Mahmud;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;I+am+MERN+Stack+Developer+;)](https://git.io/typing-svg)
-
-### Full Stack Engineer • MERN • Next.js • TypeScript • Realtime Apps
+# 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hasan Mahmud -- Full Stack Engineer • MERN • Next.js • TypeScript • Realtime Apps
 
 <!-- PROFILE HERO BANNER -->
 <p align="center">
@@ -26,11 +25,11 @@
 
 ## 🌐 Portfolio & Contact
 
-<p align="left">
-<a href="https://hasan-mahmud-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<p align="center">
+<a href="https://hasanmahmud.online/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="mailto:Hasan.2mahmud22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hasan-mahmud-314349244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://codepen.io/hasanmt12" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hasanmt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -39,22 +38,22 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Redux` `Vite` `Sass` |
-| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `Firebase` `Go (Golang)` |
-| **Mobile & Other** | `Kotlin` `Python` `C` `Arduino` `Blender` |
-| **Tools & OS** | `Git` `GitHub` `VS Code` `Postman` `Linux` |
+| **Frontend** | `Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Tanstack router` `Redux` `Vite` `Sass` |
+| **Backend & DB** | `Node.js` `Express.js` `MongoDB` `Firebase` `Nest.js `Go (Golang)` |
+| **Mobile & Other** | `Kotlin` `Python` `C` `Blender` |
+| **Tools & OS** | `Git` `GitHub` `VS Code` `Postman` `Linux` `jetbrains`|
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanMt12&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMt12&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMt12&theme=tokyonight" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
