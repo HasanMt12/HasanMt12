@@ -42,24 +42,23 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMt12&theme=tokyonight" alt="GitHub Streak" width="92%" />
-</p>
----
-
 ## 🧠 Current Focus
 
 ```ts
 const Hasan = {
   code: ["TypeScript", "JavaScript", "Go", "Kotlin"],
   technologies: {
-    frontend: ["Next.js", "React", "Tailwind CSS"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "Firebase"],
+    frontend: ["Tanstack router", "Next.js", "React", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "FastAPI"],
+    database: ["MongoDB", "Firebase", "SQLite"],
     realtime: ["Socket.io", "WebRTC"],
   },
   currentlyLearning: ["Go", "Kotlin"],
   mindset: "Build fast. Scale smart. Keep learning."
 };
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanMt12&theme=tokyonight" alt="GitHub Streak" width="92%" />
+</p>
